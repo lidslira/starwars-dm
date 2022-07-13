@@ -6,7 +6,7 @@
 * Course and Institution: [System and digital midia](https://smd.ufc.br/pt/sobre-o-curso/) na Federal University of Ceará;
 * Subject: MAMI - Mathematics Applied to Multimedia, 2022.1;
 
-![](https://imgur.com/a/lgOn3nm)
+![](starwars-dm.png)
 
 ## How to run
 - `git clone https://github.com/lidslira/starwars-dm.git` or download the .zip by clicking the green "Code" button next to repo name and choosing "Download ZIP".
